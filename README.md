@@ -5,7 +5,7 @@ It toggles an LED connected through a resistor on any GPIO pin at a fixed interv
 
 ---
 
-## ⚙️ Hardware Setup
+## Hardware Setup
 
 | Raspberry Pi Pin | Connects To | Notes |
 |------------------|-------------|-------|
@@ -14,7 +14,7 @@ It toggles an LED connected through a resistor on any GPIO pin at a fixed interv
 
 ---
 
-## 💻 Software Setup
+## Software Setup
 
 ```bash
 sudo apt update
