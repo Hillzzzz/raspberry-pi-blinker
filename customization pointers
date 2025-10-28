@@ -1,0 +1,4 @@
+| Parameter   | Description              | Default |
+| ----------- | ------------------------ | ------- |
+| `LED_PIN`   | GPIO pin number          | 21      |
+| `DELAY_SEC` | Blink interval (seconds) | 0.5     |
