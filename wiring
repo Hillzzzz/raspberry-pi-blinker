@@ -1,0 +1,7 @@
+
+Blinking LED on Raspberry Pi
+
+
+Wiring:
+- LED anode (+) → GPIO 21 (through a 330 Ω resistor)
+- LED cathode (–) → GND
