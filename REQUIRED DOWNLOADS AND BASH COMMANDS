@@ -1,0 +1,10 @@
+Requirements
+####
+python3-rpi-lgpio
+####
+
+run this on bash(if using linux)
+                 
+####                
+python3 led_blink.py
+####                
